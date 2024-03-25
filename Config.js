@@ -1,0 +1,23 @@
+window.botpressWebChat.init({
+    "composerPlaceholder": "Type here...",
+    "botConversationDescription": "Our AI Assistant (Beta)",
+    "botId": "2e163276-810c-4370-872c-b95d129c50cd",
+    "hostUrl": "https://cdn.botpress.cloud/webchat/v1",
+    "messagingUrl": "https://messaging.botpress.cloud",
+    "clientId": "2e163276-810c-4370-872c-b95d129c50cd",
+    "webhookId": "9975a352-7efb-4094-8dbf-f2e2394c9b69",
+    "lazySocket": true,
+    "themeName": "prism",
+    "botName": "Justine",
+    "avatarUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/430942331_908673434316969_6021318777541979169_n.png?_nc_cat=106&ccb=1-7&_nc_sid=510075&_nc_ohc=ZtdHEpjKFd8AX8HnJCQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS4ZaSgacznDDwnYrMCsvsDHkcZq-QJ09HqswnvsIrqTg&oe=660CF388",
+    "phoneNumber": "0412 156 618",
+    "termsConditions": "https://www.compareforexbrokers.com/terms/",
+    "privacyPolicy": "https://www.compareforexbrokers.com/privacy/",
+    "emailAddress": "jonathan@compareforexbrokers.com",
+    "website": "https://www.compareforexbrokers.com/",
+    "stylesheet": "https://webchat-styler-css.botpress.app/prod/code/f192902c-b4c4-4f7e-a02f-816db4a534fd/v47983/style.css",
+    "frontendVersion": "v1",
+    "useSessionStorage": true,
+    "theme": "prism",
+    "themeColor": "#2563eb"
+});
